@@ -9,11 +9,11 @@ h1 {
 
 p {
 	font-size: 12px;
-	color: green;
+	color: black;
 }
 
 div {
-	border-style: dotted;
+	border-style: solid;
 	border-width: 2px;
 }
 
